@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True copy of a letter of consolation sent to Nat. the printer, near the Pope's Keys in Fetter-Lane, from the meal-tub midwife, in New-gate printed to prevent false, seditious and lying reports.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63473</idno>
+            <idno type="STC">Wing T2618</idno>
+            <idno type="STC">ESTC R21366</idno>
+            <idno type="EEBO-CITATION">12360494</idno>
+            <idno type="OCLC">ocm 12360494</idno>
+            <idno type="VID">60216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60216)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 900:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True copy of a letter of consolation sent to Nat. the printer, near the Pope's Keys in Fetter-Lane, from the meal-tub midwife, in New-gate printed to prevent false, seditious and lying reports.</title>
+                  <author>Thompson, Nathaniel, d. 1687.</author>
+                  <author>Cellier, Elizabeth, fl. 1680.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:60216:1" rendition="simple:additions"/>
+            <head>A True COPY OF A Letter of CONSOLATION Sent to NAT. the Printer, Near the POPE's Keys in <hi>Fetter-Lane,</hi> from the <hi>Meal-Tub</hi> Mid wife, in <hi>New-gate.</hi>
+            </head>
+            <head type="sub">Printed to prevent Falſe, Seditious and Lying Reports.</head>
+            <opener>
+               <salute>Dear Nat.</salute>
+            </opener>
+            <p>I Have with great Sorrow heard the News of Thy <hi>Bumbaſting,</hi> by our <hi>Here<g ref="char:EOLhyphen"/>tical</hi> Enemies; But now under Thy own Hand, and Compoſing, I have Read, That they did not Beat thee enough—to ſend Thee to our Holy Father for a Conſecrated <hi>Martyr</hi> and <hi>Saint.</hi> Alas! may Thee and I ſay, That we are (deſervedly) made Sufferers for ſo good a Cauſe, that we have now for ſome years ſo vigorouſly Served. But indeed (poor Rogue) I would not have. Thee Angry with Me, as though I Flattered Thee, when I Commend thy Induſtry in our publick Calling [of <hi>Lying]</hi> for I cannot but Obſerve (notwithſtanding Thy late wholſome Chaſtiſement) Thou holdſt that good old Princi<g ref="char:EOLhyphen"/>ple firm; ſince in thy laſt Relation of the <hi>Hereticks</hi> making a Bon-Fire of our moſt Dear Father the Pope, Thou baſt altogether left out the true Story of the <hi>Popiſh Printer</hi> Riding with his Face to the <hi>Horſes Tail,</hi> all to beſet, and bedeckt with <hi>Ly<g ref="char:EOLhyphen"/>ing Intelligences,</hi> leaſt the people ſhould have taken it to have been Thine own Pi<g ref="char:EOLhyphen"/>cture; being ſo exactly like Thee, as few could diſcern any difference: Next, Thou didſt like Our Party too, omit the <hi>Suborners</hi> and <hi>Suborned</hi> on the Pillory; for though we Love Hugg and Carreſs them with <hi>Huzzah</hi>'s to the Brim, yet it would be Mad<g ref="char:EOLhyphen"/>neſs in us to let the People know them, and ſuffer ſuch a conceit to run in their Noddle, as if we made great uſe of them. In reality <hi>Nat.</hi> badſt thou (when thou waſt laſt here) foreſeen this Thumping, Bumping Diſaſter; my <hi>Stone Jacquet,</hi> if the Keeper would have Lent it Thee, had been freely at Thy Service, however my <hi>Head-piece,</hi> (that kept off the Stone of twenty pound weight at my Exaltation) is wholly at Thy Command, leaſt next time Thou peepeſt out of <hi>White fryers,</hi> ſome Bold <hi>Proteſtant Heritick</hi> ſhould Ring the ſecond Part to the ſame Tune on thy empty Noddle, and make the uncapable of Serving the <hi>Catholick Intereſt</hi> any longer. However chear up, for whilſt the <hi>Fathers</hi> of this <hi>Colledge</hi> can Write a LIBEL, Thou ſhall not want the Honour of being the <hi>Catholick Printer;</hi> and, if thou canſt Believe Me, (who gave a true Account of <hi>Racking of Mr.</hi> Prance <hi>in</hi> Newgate, though he was a Sleep all the while and never felt it; and who hath ſent to thy Forge ſo many uſeful LIBELS to our Cauſe) I ſay, if, Thou canſt confide in Me, pull up thy Courage, Write, Swear, Print, Lye, as Bold as a JESUITE, and ten times worſe: Curſe, and Ruin Thy Native Country, if Thou canſt, by Sowing and Fomenting DIVISIONS; all theſe Services for our CAUSE, and ten times as Much, if Thou canſt do, ſhall Eter<g ref="char:EOLhyphen"/>nize Thy Name in Golden Letters in the Holy <hi>Vatican,</hi> and keep Thee ten thouſand Years out of <hi>Purgatory.</hi> Salute our Fellow-Sufferers, Madam <hi>Joana,</hi> alias Monſieur <hi>Obſervator;</hi> together with the Moſt Oblieging, Seigneur <hi>Heraclitus Ridens:</hi> To Conclude, We earneſtly wiſh Thy good Campany here; where Thou woudſt be as well Guarded as in <hi>White-fryers;</hi> Fare-well, and do Well, and thou wilt greatly O<g ref="char:EOLhyphen"/>blige her, whoſe <hi>Motto</hi> is, I NEVER CHANGE,</p>
+            <closer>
+               <signed>Eliz. Cellier.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:60216:2"/>
+            <head>Poſt-ſcript.</head>
+            <p>THE <hi>Muſes</hi> of Our <hi>Colledge</hi> being got Tipſy in Drinking the old HEALTH, they have (Dear Implement) Compoſed a <hi>Sonnet,</hi> for Thy further Conſolation, and in Memory of Thy Baſting, which They deſire Thee to ſend to Monſieur <hi>He<g ref="char:EOLhyphen"/>raclitus Ridens</hi> our Regeſter, to be by him Publiſhed among his <hi>Odes</hi> and <hi>Ballads,</hi> which we Compoſe for him, when our Penſion comes freſh in, and that we Drink Sack with an <hi>Huzza,</hi> Farewell</p>
+            <closer>
+               <signed>E. C.</signed>
+            </closer>
+         </div>
+         <div type="ballad">
+            <head>The <hi>SONNET</hi> of the <hi>CANE.</hi>
+            </head>
+            <opener>To the Tune of, <hi>To prevent Falſe, Seditious and Lying Reports, &amp;c.</hi>
+            </opener>
+            <lg>
+               <l>COme be not diſmay'd,</l>
+               <l>Tho' Thou wert well paid,</l>
+               <l>We ſwear by the Soul of King <hi>Arthur,</hi>
+               </l>
+               <l>In spite of the Smiter,</l>
+               <l>Or <hi>Jack</hi> the <hi>Presbyter</hi>
+               </l>
+               <l>Thou ſhalt be put down for a Martyr.</l>
+            </lg>
+            <lg>
+               <l>Our Father the POPE</l>
+               <l>Without <hi>Tyburn</hi> or Rope,</l>
+               <l>Since thou art ſo known a Tranſgreſſor:</l>
+               <l>With thy own black Paint,</l>
+               <l>Shall Print Thee a Saint,</l>
+               <l>When we have a <hi>Romiſh Succeſſor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thou hast the Popes Keys</l>
+               <l>As every one Sees,</l>
+               <l>They 're hang'd up at Thine own Door,</l>
+               <l>For what uſe? can't you tell?</l>
+               <l>To ope Heav'n and Hell,</l>
+               <l>Dear <hi>Nat,</hi> what wouldst Thou have more?</l>
+            </lg>
+            <lg>
+               <l>The Authority is good,</l>
+               <l>If well underſtood,</l>
+               <l>And in it, Thou well mayſt Glory,</l>
+               <l>You may abuſe whom you pleaſe,</l>
+               <l>Of all Sorts and Degrees;</l>
+               <l>And make a Damn'd <hi>Saint</hi> of a Tory.</l>
+            </lg>
+            <lg>
+               <l>Tho' we're now in our Drink,</l>
+               <l>We cannot but think,</l>
+               <l>What Laughter, what Jeſt, and what Sport there's,</l>
+               <l>To ſee Thee give an hint</l>
+               <l>Of Thy Sufferings in Print,</l>
+               <l>To <hi>Vile, Care, Janaway,</hi> and others,</l>
+            </lg>
+            <lg>
+               <l>Take Courage, we ſay</l>
+               <l>When we get the Day,</l>
+               <l>Thou ſhalt be well Paid for Thy Basting;</l>
+               <l>And in the mean time,</l>
+               <l>Accept of our Rhime,</l>
+               <l>To make a Knaves Name everlaſting.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Johnſon,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
